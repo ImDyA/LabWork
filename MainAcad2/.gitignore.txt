@@ -1,0 +1,6 @@
+.git/*
+.out/*
+.gitignore
+MainAcad2.iml
+
+src/.idea/*
